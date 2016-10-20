@@ -1,0 +1,281 @@
+a:link {
+	font-family: arial, sans-serif;
+	text-decoration: none;
+	color: rgba(255,255,255,1.0);
+}
+a:visited {
+	text-decoration: none;
+	color: rgba(240,240,240,0.6);
+}
+a:hover {
+	text-decoration: none;
+	color: rgba(230,230,230,0.7);
+    background-color: rgba(36,49,67,0.7);
+}
+a:active {
+	text-decoration: none;
+	color: rgba(220,220,220,0.8);
+}
+body {
+	background-color: rgba(36,49,67,0.87);
+}
+dd {
+	color: white;
+	text-align: center;
+}
+dt {
+	color: rgba(255,255,255,1.0);
+	text-align: center;
+}
+div.col-xs-6 {
+	color: white;
+}
+div.container {
+	text-align: absolute;
+	line-height: 150%
+	padding: 20px;
+}
+h3 {
+	color: rgb(255,255,255);
+	font-family: arial, sans-serif;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 130%;
+    background-color: rgba(36,49,67,1.0);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+h4 {
+    font-family: arial, sans-serif;
+    font-size: 25px;
+    text-align: center; 
+    color: rgb(255,255,255);	
+    line-height: 130%;
+}
+h5 {
+	font-family: arial, sans-serif;
+    font-size: 20px;
+	text-align: center;
+	color: rgb(255,255,255);
+	line-height:130%;
+}
+input {
+	color: rgb(0,0,0);
+	width: 100%;
+	line-height: 200%;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	border: 0px;
+	text-align: center;
+}
+li {
+	font-family: serif;
+	color: white;
+	border: 0.5%;
+	text-align: center;
+	line-height: 200%;
+	list-style-type: none;
+}
+p {
+	color: rgba(255,255,255,1.0);
+}
+td {
+	color: rgba(255,255,255,1.0);
+	padding-bottom: 22px;
+	text-align: center;
+}
+th {
+	text-align: center;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+table {
+	padding-right:200px;
+}
+textarea {
+	border-radius: 7px;
+	border: 0px;
+}
+.actions {
+	color: rgba(255,255,255,1.0);
+}
+.btn {
+	color: rgb(0,0,0);
+	background-color: rgba(36,49,67,1.0);
+}
+.btn-danger {
+	border-color: rgba(36,49,67,1.0);
+}
+.col-xs-6 {
+	padding-top: 20px;
+}
+.hide {
+	display: none;
+}
+.jumbotron {
+	background-color: #3A3B42;
+}
+.list {
+	margin: auto;
+}
+#accountreport {
+	background-color: rgba(36,49,67,0.87);
+}
+#accountstatistics {
+	background-color: rgba(36,49,67,0.87);
+}
+#accountstatisticsmenu {
+	background-color: rgba(36,49,67,0.87);
+}
+#accountstatisticstasksummary {
+	background: rgba(36,49,67,0.87);
+}
+#addsubtask {
+	margin-top: 24px;
+}
+#addtskbtn {
+	background-color: rgb(36,49,84);
+	color: rgb(255,255,255);
+	position: fixed;
+	font-size: 30px;
+	bottom: 7%;
+	right: 5%;
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	text-decoration: none;
+}
+#addeditaccount {
+	background-color: rgba(36,49,67,0.87);
+}
+#addeditsubtask {
+	background-color: rgba(36,49,67,0.87);
+}
+#addedittask {
+	background-color: rgba(36,49,67,0.87);
+}
+#buttonsidebar {
+    background-color: rgba(36,49,67,0.5);
+    float: right;
+    margin-right: 0px;
+    padding-right: 30px;
+    height: 600px;
+}
+#content {
+	margin-top: 0px;
+}
+#exportbtn {
+	background-color: rgb(100,150,200);
+	color: white;
+	font-family: Georgia, serif;
+	border-radius: 100%;
+	box-shadow: 50%;
+	position: absolute;
+	bottom: 7%;
+	right: 7%;
+	height: 10%;
+	width:10%;
+}
+#exporttoevernotebtn {
+	background-color: rgb(111,181,54);
+	border: 3px solid rgb(105,105,105);
+}
+#exporttoquickenbtn {
+	background-color: rgb(216,0,26);
+    border: 3px solid rgb(249,168,61);
+    color: white;
+}
+#flashMessage {
+	position: relative;
+	background-color: rgba(36,49,67,0.5);
+	color: white;
+}
+#header {
+	background-color: rgba(36,49,67,1.0);
+	margin-top: 0px;
+	padding-bottom: 0px;
+}
+#leftsidebar {
+    background-color: rgba(36,49,67,0.5);
+    line-height: 200%;
+    font-family: arial, sans-serif;
+    font-size: 150%;
+    text-align: center;
+    float: left;
+    margin-left: 0px;
+    list-style: none;
+    padding-top: 10px;
+    padding-right: 30px;
+    height: 700px
+}
+#location {
+	background-color: rgba(36,49,67,0.87);
+}
+#marginer {
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+#menu {
+	background-color: rgba(36,49,67,0.87);
+}
+#menubtn {
+	color: rgba(255,255,255,1.0);
+	float: left;
+	width: 100%;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+#menubtn:hover {
+	background-color: black;
+	color: white;
+}
+#notes {
+	background: rgba(36,49,67,0.87);
+}
+#notestext {
+	width: 100%;
+	margin-top: 20px;
+}
+#righttsksidebar {
+	background-color: rgba(36,49,67,0.5);
+    line-height: 200%;
+    font-family: arial, sans-serif;
+    font-size: 150%;
+    text-align: center;
+    float: left;
+    margin-left: 0px;
+    list-style: none;
+    padding-top: 20px;
+    padding-right: 30px;
+    height: 700px
+}
+#runningtask {
+	background-color: rgba(36,49,67,0.87);
+}
+#settings {
+	background-color: rgba(36,49,67,0.87);
+}
+#submitbtn {
+	padding-top: 0px;
+}
+#task {
+	background-color: rgba(36,49,67,0.87);
+}
+#tasks {
+	line-height: 200%;
+}
+#taskaccounts {
+	background-color: rgba(36,49,67,0.87);
+}
+#taskbtns {
+	margin-bottom: 27px;
+}
+#tasklist {
+	background-color: rgba(36,49,67,0.87);
+}
+#timerlist {
+	background: rgba(36,49,67,0.87);
+}
